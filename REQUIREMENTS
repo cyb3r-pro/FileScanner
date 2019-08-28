@@ -1,0 +1,8 @@
+python-magic
+watchdog
+requests
+urlparse
+virustotal-api
+olefile
+oletools
+yara-python
